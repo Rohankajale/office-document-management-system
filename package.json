@@ -2,7 +2,7 @@
   "name": "emplyee_management_system_using_react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://muhammadhoti.github.io/Employee-Management-System-Using-React",
+  "homepage": "https://github.com/Rohankajale/office-document-management-system",
   "dependencies": {
     "gh-pages": "^1.2.0",
     "moment-timezone": "^0.5.21",
